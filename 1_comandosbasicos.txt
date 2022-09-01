@@ -1,0 +1,21 @@
+Listar archivos 
+- ls
+- ls -l (formato long - creacion/tamanio)
+- ls -lh (formato long lectura humana - creacion/tamanio)
+- ls -la (muestra archivos ocultos)
+- ls -lS (Los ordena por tamanios)
+- ls -lr (Los ordena en reversa)
+
+cambiar directorio
+- cd ruta/ruta2
+- cd (te lleva al home dir)
+
+operador de ruta relativa
+- cd ./x/y (punto directorio actual)
+- cd .. (retrocede un directorio)
+
+Muestra la ruta del dir donde te encuentras
+- pwd (print working directory)
+
+describe el tipo de archivo (extension, que es)
+- file archivo.*  

@@ -1,0 +1,23 @@
+Muestra el arbol de directorios
+- tree
+- tree -L 2 (Profundiza en niveles - numero)
+
+Crea un directorio 
+- mkdir nombre
+
+Crea archivos
+- touch archivo (puede ser mas de uno)
+
+Copia un archivo
+- cp archivo ruta
+
+mover archivo 
+- mv archivo ruta (.. para ir atras)
+- mv archivo nombrenuevoarchivo (renombra un archivo)
+
+borrar un archivo 
+- rm archivo
+- rm -i archivo (i de interactive, para confirmacion de eliminacion)
+
+remover un directorio con archivos
+- rm -r directorio (r recursive - primero pregunta antes de borrar cada archivo)
